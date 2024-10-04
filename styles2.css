@@ -1,0 +1,44 @@
+ 
+.titulo {
+    background-color: #100c52; 
+    padding: 5px;
+    color: white;
+    width: 100%; 
+         
+}
+#principal{
+    text-align: center;
+}
+.borda{
+    margin: 0px;
+}
+.bt{
+    text-align: center;
+}
+button{
+    width: 135px;
+    height: 50px;
+    background-color: #100c52;
+    color :white;
+}
+#centro{
+    display: flex;
+    justify-content: center;
+}
+.footer {
+    background-color: #100c52; 
+    color: white; 
+    text-align: center; 
+    padding: 20px; 
+    position: fixed; 
+    bottom: 0;
+    width: 100%;
+}
+.foter {
+    background-color: #100c52; 
+    color: white; 
+    text-align: center; 
+    padding: 20px;  
+    bottom: 0;
+    width: 100%;
+}
